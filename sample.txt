@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 this is just a text file I am adding
 adding more text
-=======
+
 this is just a text file I am adding
->>>>>>> 044c98cb2aabb5b9332b2f5ad8beb8417453185a
+
